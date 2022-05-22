@@ -1,12 +1,9 @@
 {
   "name": "bionic-reading",
   "version": "0.0.1",
-  "description": "An extension that allows for Bionic Reading on any webpage!",
+  "description": "An extension that allows for Bionic Reading across the web, automagically",
   "main": "index.js",
-  "repository": "https://github.com/ansh/bionic-reading.git",
-  "author": "Ansh Nanda <anshnanda10@gmail.com>",
-  "license": "GNU",
-  "dependencies": {
-    "@mozilla/readability": "^0.4.2"
-  }
+  "repository": "https://github.com/walkerselby/bionic-reading.git",
+  "author": "Walker Selby <dev@walkerselby.com>",
+  "license": "GNU"
 }
