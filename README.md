@@ -1,4 +1,4 @@
-# Bionic Reading
+# Bionic Reading Chrome Extension
 
 This is a fork of [Ansh's Chrome Extension](https://github.com/ansh/bionic-reading/) entitled "bionic-reading". 
 
